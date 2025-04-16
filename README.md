@@ -32,9 +32,14 @@ This is a decentralized application (DApp) built with **Next.js**, **TypeScript*
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 
+#please put the env file in root of the project
+
+
 # Install dependencies
+yarn
 npm install
 
 # Run locally
+yarn dev
 npm run dev
 ```
