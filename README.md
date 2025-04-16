@@ -29,8 +29,8 @@ This is a decentralized application (DApp) built with **Next.js**, **TypeScript*
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/omid-ghl/next-metamask-dapp
+cd next-metamask-dapp
 
 #please put the env file in root of the project
 
